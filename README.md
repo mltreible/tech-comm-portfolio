@@ -1,5 +1,5 @@
 # Technical Communications Portfolio
-Marissa Treible
+## Marissa Treible
 
 **North Carolina State University**
 B.S. Electrical Engineering, Dec 2020
