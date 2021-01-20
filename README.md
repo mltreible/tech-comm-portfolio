@@ -10,7 +10,8 @@ B.A. History and Spanish, May 2017
 
 ## Writing Samples
  **User Guide**
-    - [Sea Turtle Nestling Alert System - Spreadsheet User Guide](https://github.com/mltreible/tech-comm-portfolio/blob/main/STNAS_Spreadsheet_UserGuide.png)
+ 
+    - [STNAS Spreadsheet User Guide](https://github.com/mltreible/tech-comm-portfolio/blob/main/STNAS_Spreadsheet_UserGuide.png)
    
    
 
