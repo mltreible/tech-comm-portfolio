@@ -9,9 +9,8 @@ B.A. History and Spanish, May 2017
 
 
 ## Writing Samples
- **User Guide**
- 
-    - [STNAS Spreadsheet User Guide](https://github.com/mltreible/tech-comm-portfolio/blob/main/STNAS_Spreadsheet_UserGuide.png)
+### **User Guide**
+  [STNAS Spreadsheet User Guide](https://github.com/mltreible/tech-comm-portfolio/blob/main/STNAS_Spreadsheet_UserGuide.png)
    
    
 
